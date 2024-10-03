@@ -1,9 +1,9 @@
 ### Project Background
 
-**Company**: MaineGeneral Health, Orthopedics Department
-**Industry**: Healthcare (Orthopedics) 
-**Active Years**: Established in the late 1800s, MaineGeneral Health has been providing medical services for over a century.  
-**Business Model**: The company operates on a patient-centric healthcare model, focusing on delivering specialized orthopedic services. It collects patient feedback (PSAT scores), tracks wait times, and analyzes patient flow to enhance the quality of care.  
+**Company**: MaineGeneral Health, Orthopedics Department <br>
+**Industry**: Healthcare (Orthopedics) <br>
+**Active Years**: Established in the late 1800s, MaineGeneral Health has been providing medical services for over a century.  <br>
+**Business Model**: The company operates on a patient-centric healthcare model, focusing on delivering specialized orthopedic services. It collects patient feedback (PSAT scores), tracks wait times, and analyzes patient flow to enhance the quality of care.  <br>
 **Key Business Metrics**:  
 - **# of Patients (2023)**: 531  
 - **Average PSAT Score**: 5.1  
